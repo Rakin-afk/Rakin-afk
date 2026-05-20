@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Welcome+to+my+GitHub+Profile!;Glad+to+have+you+here!+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=Welcome+to+my+GitHub+Profile!;Glad+to+have+you+here!+)
 # Hello! I'm Rakin 👋
 
 I am a graduate in Bachelor of Science in **Information and Communication Engineering (ICE)** at the **Bangladesh University of Professionals (BUP)**. I am deeply passionate about building AI automation systems, multi-agent workflows, backend infrastructures, AI ML Verification Engineering (cocotb) and exploring Software Quality Assurance (SQA).
